@@ -1,0 +1,151 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  font-family: "montserrat", sans-serif;
+}
+
+.hauptbox{
+width:80%;
+}
+
+
+
+h1{
+  font-weight: 700;
+  font-size: 2em;
+  color:black;
+  text-align: center;
+}
+
+ul{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+
+}
+
+li {
+  list-style:none;
+  font-size: 1em;
+  font-weight: 600;
+  color: black;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+    text-align: center;
+}
+
+a:visited{
+  color:black;
+}
+
+a:hover{
+  color:hotpink;
+   
+    
+}
+.class{
+    align-items: center;
+}
+
+img{
+  height: 50%;
+  width:50%;
+  float:left;
+  margin-right: 20px;
+}
+
+.card1{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+    background-color: beige;
+}
+.card2{
+  float: none;
+  margin-bottom: 50px;
+    padding: 10px;
+}
+.card3{
+  float: right;
+  margin-bottom: 50px;
+   
+}
+.card4{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+     background-color: azure;
+}
+    
+    .card5{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+    .card6{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+        background-color: cadetblue;
+}
+ .card7{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+.card8{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+        background-color: lightcoral;
+}
+.card9{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+.card10{
+  float: left;
+  margin-bottom: 50px;
+  padding: 10px;
+    background-color: lightpink;
+}
+}
+
+p{
+  font-size: 1em;
+  font-weight: 400;
+}
+
+
+h2{
+  font-weight: 600;
+  font-size: 1.75em;
+  color: skyblue;
+  text-align: center;
+}
+
+h3{
+  font-weight: 600;
+  font-size: 1.5em;
+  color: lightgrey;
+  text-align: center;
+}
+
+.column{
+  columns: 3 7em;
+  column-gap: 3em;
+}
+
+
+
+
+
+
+
+
